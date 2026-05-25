@@ -167,8 +167,8 @@ Implemented simulations and probability-based experiments.
 ## 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <repository-folder>
+git clone https://github.com/Ayush-codez/Celebal-Technology-DS-INTERNSHIP.git
+cd Celebal-Technology-DS-INTERNSHIP
 ```
 
 ## 2. Install Dependencies
